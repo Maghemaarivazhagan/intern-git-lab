@@ -1,17 +1,31 @@
 \#Intern Git Lab
-Hands on practice repository for learning git and GitHub fundamentals 
+Hands on practice repository for learning git and GitHub fundamentals
 
-## Objectives 
+## Objectives
 
--practice the git workflow
+\-practice the git workflow
 
-\-create meaningful commits 
+\-create meaningful commits
 
-\-work with branches 
+\-work with branches
 
-\-practice pull request and merging 
+\-practice pull request and merging
 
 \-resolve merge conflicts
 
-\-understand local and remote repositories 
+\-understand local and remote repositories
+
+## Git Concepts Learned
+
+
+
+\- Version control
+
+\- Git vs GitHub
+
+\- Local and remote repositories
+
+\- Staging and commits
+
+
 
