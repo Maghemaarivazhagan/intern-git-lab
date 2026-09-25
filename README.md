@@ -23,8 +23,7 @@ Hands on practice repository for learning git and GitHub fundamentals
 
 \- Git vs GitHub
 
-\- Local and remote 
-- repositories
+
+\- Local and remote  repositories
 
 \- Staging and commits
-
